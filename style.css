@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+}
+iframe{
+    width: 100px;
+}
+
+.gifline{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+}
